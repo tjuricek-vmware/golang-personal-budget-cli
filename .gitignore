@@ -1,2 +1,5 @@
 # Ignore JetBrain's Project Files (GoLand, IntelliJ)
 .idea/
+
+# Ignore built files
+budget
